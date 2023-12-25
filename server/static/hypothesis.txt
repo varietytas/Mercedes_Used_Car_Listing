@@ -1,0 +1,7 @@
+My hypothesis is rather simple and is as follows.
+
+As I have discovered, G models have an outstandingly high mean price comparing to others, but what I also know is that price negatively correlates with 'mpg', which in turn is more or less associated with Petrol fuel type as I have just shown.
+
+Hence, I claim that most of G-Class cars presented in the dataset work on petrol, rather then diesel or electricity. Moreover, such considerable gap in price regarding other models might indicate these Gs are powerful ones, which implies they have big engine sizes.
+
+Indeed, I can distinctively see my logical chain takes place and 67% of G models have petrol-powered engines. 33%, 53%, 13% of them are of size 3.0, 4.0 and 5.5 respectively, which are conventionally high values.

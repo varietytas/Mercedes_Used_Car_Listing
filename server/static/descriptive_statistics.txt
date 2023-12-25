@@ -1,0 +1,1 @@
+Here I briefly describe fields 'year', 'price', 'mileage', 'mpy', 'tax', 'mpg', 'engineSize' by showing their mean, median, standard deviation, minimum and maximum values.

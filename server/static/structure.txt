@@ -1,0 +1,32 @@
+The dataset consists of 13093 items, which have 10 columns, namely
+
+• model
+    Model of the car in Mercedes product line.
+
+• year
+    Year of car's registration.
+
+• price
+    Price in euros.
+
+• transmission
+    Type of gear box.
+
+• mileage
+    Total distance used in miles.
+
+• mpy
+    Shows how intesively the car was used in the period between the year of its registration and 2023. In other words, <b>miles per year</b>.
+
+• fuelType
+    Fuel engine works on.
+
+• tax
+    Road tax — a tax which has to be paid on, or included with, a motorised vehicle to use it on a public road.
+
+• mpg
+    Miles per galoon. The characteristic shows how many miles can vehicle cover on 1 galoon of fuel.
+    1 mile ~ 1.6 kilometres; 1 galoon ~ 3.79 litres.
+
+• engineSize
+    Size of engine in litres.

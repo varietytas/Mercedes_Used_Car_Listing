@@ -1,0 +1,13 @@
+Hello there!
+I am a bot for convenient navigation through the analysis of <b>Mercedes Used Car Listing</b> dataset.
+
+<b>How to use me:</b>
+
+-> You can choose what sections of the analysis you want to be shown by sending respective commands.
+The list of commands and their description can be found in the bot <b>Menu</b>.
+
+-> Sections <b>Structure</b> and <b>Overview</b> are also avaliable by buttons.
+
+-> By clicking <b>Mean price over years</b> you can learn the average car price for the provided year range.
+
+Enjoy!

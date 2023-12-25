@@ -1,0 +1,19 @@
+Here I considered 6 most significant positive correlations:
+
+• <b>'mpy'</b> against <b>'mileage'</b> (correlation <b>0.92</b>):
+    Such correlation may seem obvious. If a car is used on a daily basis (regularly, in other words), then the more it was driven in general, the more it was driven yearly. The fact that the age of a car increases over time keeps this growth almost linear.
+
+• <b>'year'</b> against <b>'price'</b> (correlation <b>0.53</b>, mean price on graph):
+    The latest models cost more than their "ancestors" (cars of the same model, released earlier). This is due to marketing reasons mostly, newer cars are most desired and are considered more trustworthy.
+
+• <b>'engineSize'</b> against <b>'price'</b> (correlation <b>0.52</b>):
+    High correlation, indicating that engine size directly influences the price. It may not be noticed straightaway, since the car's age also contributes a lot to the price, as I have just showed.
+
+• <b>'engineSize'</b> against <b>'tax'</b> (correlation <b>0.34</b>):
+    Medium correlation shows that in general people pay higher road taxes for more powerful cars.
+
+• <b>'mpy'</b> against <b>'mpg'</b> (correlation <b>0.28</b>):
+    Medium correlation, which I interpret as economical cars are used by people more regularly and intensively, rather than powerful and fuel-consuming. This could also be clearly observed in the plot.
+
+• <b>'tax'</b> against <b>'price'</b> (correlation <b>0.27</b>):
+    Medium correlation, not distinctively seen in a plot, shows that higher road taxes are set for more expensive cars. This may seem logical if we recall that higher engine size, accounting for the considerable part of the price, leads to higher tax.

@@ -1,0 +1,5 @@
+Here I plotted fields 'year', 'price', 'mileage', 'engineSize' to the items of the dataset and analyze the result.
+
+As I can see, people tend to sell Mercedeses of mileage from 0 to 25000 and of engine size 2.0 considerably more often then others. Cars with engines of medium power are more than twice more popular on Mercedes resale market than compact ones. Hence, I can assume people choose other brands for more economic cars.
+
+Also what stands out is that the majority asks from 10000 to 40000 euros for their car, that is most of the cars lie in price range between 10 and 40 thousand euros. It can be considered average price range.

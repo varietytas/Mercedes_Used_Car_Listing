@@ -1,0 +1,19 @@
+Here I considered 6 most significant negative correlations:
+
+• <b>'year'</b> against <b>'mileage'</b> (correlation <b>-0.75</b>, mean mileage on graph):
+    Strong negative correlation implies that newer cars are of less mileage, which is expected.
+
+• <b>'price'</b> against <b>'mileage'</b> (correlation <b>-0.54</b>):
+    It can be observed that the higher mileage a car has, the cheaper it is.
+
+• <b>'mpy'</b> against <b>'year'</b> (correlation <b>-0.52</b>):
+    High correlation. What stands out is that cars of years 2015-2017 have the widest ranges of 'mpy'. I suppose it can be explained in the following way: cars of these years were (by 2020) of a certain age to gain high mileage (unlike newer ones), but not too old to allow its age to decrease 'mpy' while it is driven rarely (which happens to older cars).
+
+• <b>'price'</b> against <b>'mpy'</b> (correlation <b>-0.5</b>):
+    The situation is quite similar to 'price' ag. 'mileage': the more intensively the car was used, the cheaper it is.
+
+• <b>'mpg'</b> against <b>'tax'</b> (correlation <b>-0.52</b>):
+    High correlation illustrates that higher fuel consumption results in higher tax.
+
+• <b>'mpg'</b> against <b>'price'</b> (correlation <b>-0.44</b>):
+    Medium negative correlation indicates that on average the lesser the 'mpy', the more the car costs. Low values of 'mpy' are associated with powerful expensive engines.

@@ -1,0 +1,5 @@
+Please, input the period in the following format:
+<i>lowestYear-highestYear</i>, where <i>lowestYear</i> and <i>highestYear</i> are years from 1970 to 2020.
+I will calculate the mean price of Mercedes cars over this period!
+
+If you have changed your mind just send <i>Exit</i>.

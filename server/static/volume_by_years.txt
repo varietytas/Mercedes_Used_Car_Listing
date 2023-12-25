@@ -1,0 +1,11 @@
+Here I looked at relative quantity of cars on sale:
+
+It can be seen that people sell cars of 2019 year of registration mostly. There are several reasons for this. If we assume 2020 is the year of the data collection, then the following reasons ought to take place:
+
+• Some people regularly update their auto. 2020 was the year of restyling, so a lot of people sold their "old" cars in order to buy the newest model. It is a common phenomenon among Mercedes-Benz clients. So, the wave of sales fell on the previous year, namely 2019.
+
+• People buy a car, drive it for a short period of time (a year or less), disapprove of it and sell.
+
+• Difficult financial situation. People take a car loan, but then realize they cannot cope with it.
+
+There are also quite high volumes for 2017 and 2016. Overall, the quantity decreases as the year goes down, and becomes insignificant at 2010: obviously, the younger the model, the higher demand it is in.

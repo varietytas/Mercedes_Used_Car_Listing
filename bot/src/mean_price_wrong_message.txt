@@ -1,0 +1,2 @@
+Please, use this format: <i>lowestYear-highestYear</i> and ensure the values are in range 1970-2020.
+Or send <i>Exit</i> to exit.

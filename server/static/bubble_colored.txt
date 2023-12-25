@@ -1,0 +1,4 @@
+I continued by identifying <b>how much do each model cost on average</b>, also taking mean engine size into account. I took into consideration only latest models (2019 and 2020), because of age gaps and the fact that over time borders between models are being erased due to mileage.
+
+'model'-'price' and 'model'-'engineSize' relations are distinct. Positive 'engineSize'-'price' correlation is proved.
+It is worth mentioning that engine size becomes extremely significant contributor to the price in the slice of 2019-2020 years with 'engineSize'-'price' of <b>0.78</b>.

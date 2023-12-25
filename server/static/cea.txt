@@ -1,0 +1,4 @@
+I took 3 outstandingly popular models, namely C, A and E, and illustrated their price against the year of registration.
+
+I saw that A-Class is generally cheaper than E and C, while E-Class and C-Class are in approximately the same price range each year. However, there is a strange "cloud" of expensive A-Classes, their prices are considerably above the bulk.
+I observed the correspondent slice: and, judging by low 'mpg' and high 'engineSize' values, found out that these are classy powerful AMG models. That explains why the price is comparably high.

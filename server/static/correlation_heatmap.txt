@@ -1,0 +1,3 @@
+I looked at the relationship between each pair of numeric variables of the dataset by identifying respective correlations.
+
+Later I dived into most catchy ones...

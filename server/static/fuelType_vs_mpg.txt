@@ -1,0 +1,4 @@
+Here I showed the dependence between 'fuelType' and 'mpg'.
+
+Hybrid models on average can go far more on one galoon of fuel, because it is not their only source of power.
+In turn, diesel is meanly <b>38.76%</b> more economical than petrol.
